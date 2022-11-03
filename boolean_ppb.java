@@ -4,7 +4,7 @@ public class boolean_ppb {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Enter only Y and N" );
+		System.out.println("Enter Y and N only" );
 		System.out.print("Do you have a permit? ");
 		
 		
